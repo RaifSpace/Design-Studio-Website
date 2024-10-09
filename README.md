@@ -11,8 +11,8 @@ https://meyerweb.com/eric/tools/css/reset/
 Вот пример реализации проекта с использованием блока контейнера.
 
 Например:
-HTML
 ```
+HTML
 <header class=”header”>
   <div class=”container”>
     <div class=”header__wrapper”>
